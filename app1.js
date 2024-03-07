@@ -2,7 +2,7 @@
 
 
 let num
-num = 100
+num = '100'
 
 console.log(num)
 
